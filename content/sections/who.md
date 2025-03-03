@@ -7,9 +7,8 @@ showInNav: true
 
 ## La solution pour des transports sécurisés et rapides
 
-![Texte alternatif](/public/img/who1.webp "Titre de l'image")
-
-![Texte alternatif](/public/img/who2.webp "Titre de l'image")
+![Texte alternatif](/img/image1-who.webp "Titre de l'image")
+![Texte alternatif](/img/image2-who.webp "Titre de l'image")
 
 Simplifiez votre quotidien avec nos solutions sur mesure ! Nous vous aidons à libérer de l’espace grâce à notre service de débarrassage professionnel. Besoin de transporter du matériel ? Profitez de notre large choix de remorques et d’équipements en location pour une logistique flexible et efficace.
 
