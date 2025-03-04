@@ -14,7 +14,7 @@ const Section: React.FC<SectionProps> = ({ section }) => {
   );
 
   return (
-    <section id={section.id} className="py-16 px-4">
+    <section id={section.id} className={`section-${section.id} py-16 px-4`}>
       <div className="container mx-auto max-w-4xl">
         <div dangerouslySetInnerHTML={{ __html: contentWithImages }} />
       </div>
